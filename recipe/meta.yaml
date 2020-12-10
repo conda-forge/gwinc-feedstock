@@ -44,7 +44,7 @@ about:
   home: https://git.ligo.org/gwinc/pygwinc
   dev_url: https://git.ligo.org/gwinc/pygwinc.git
   doc_url: https://gwinc.docs.ligo.org/pygwinc/
-  summary: Gravitation Wave Interferometer Noise Calculator
+  summary: Gravitational Wave Interferometer Noise Calculator
   license: Unlicense
   license_file: LICENSE
   description: |
