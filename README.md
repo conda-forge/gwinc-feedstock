@@ -7,7 +7,7 @@ Package license: Unlicense
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/gwinc-feedstock/blob/master/LICENSE.txt)
 
-Summary: Gravitation Wave Interferometer Noise Calculator
+Summary: Gravitational Wave Interferometer Noise Calculator
 
 Development: https://git.ligo.org/gwinc/pygwinc.git
 
