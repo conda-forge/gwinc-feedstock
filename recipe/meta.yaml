@@ -1,5 +1,5 @@
 {% set name = "gwinc" %}
-{% set version = "0.4.0" %}
+{% set version = "0.4.1" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/{{ name }}-{{ version }}.tar.gz
-  sha256: 91cdf8c08cef6c67fa0462c7c522ed1f4ff4e727c969e7f6467b088951ebb6c0
+  sha256: b6ea1de8592d3f07f6deac649d54689355502b275beef75496762c0c2265368f
 
 build:
   entry_points:
